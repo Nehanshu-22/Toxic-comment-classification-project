@@ -23,8 +23,7 @@ is greater than or equal to 0.
 As a term appears in more documents, the ratio inside the logarithm approaches 1, bringing the idf and tf–idf closer to 0.
 
 Machine Learning approach:
-Before applying any ML Model first we had to convert the text into vectors using the TF-IDF, the above stated approach. By actually doing this we would be able to use
-linear algebra to work upon and solve our problems. since ML models are based on mathematics. After the preliminary steps
-of the NLP such as vectorization, lemmatization etc.
+Before applying any ML Model first, had to convert the text into vectors using the TF-IDF, the above stated approach. By actually doing this gave the room to harness the power of linear algebra to work upon and solve our problems, since ML models are based on mathematics. Then afterwards preliminary steps
+of the NLP such as vectorization, lemmatization etc are applied.
 Classification models such as Logistic Regression and Regression tree also along with bagging and boosting algorithms such as XGBoost
 and Light Gradient Boosting are used. The scoring technique was the f1 score and the model performance was judged on the AUC-ROC curve and score.
