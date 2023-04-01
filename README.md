@@ -1,5 +1,5 @@
 # Toxic-comment-classification-project
-This project is intended to classify toxic comments which are classified as toxic, severe toxic, identity hate, insult, threat and obsence.
+This project intends to classify toxic comments which are classified as toxic, severe toxic, identity hate, insult, threat and obsence.
 The technique used to achieve this classification is the Term frequency- Inverse Document frequency is a numerical statistic that is intended to reflect
 how important a word is to a document in a collection or corpus. It is most commonly used in text mining and sentiment analysis major area of its application include
 the search engines.
